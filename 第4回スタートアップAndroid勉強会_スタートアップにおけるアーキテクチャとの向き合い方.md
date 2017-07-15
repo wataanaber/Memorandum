@@ -2,6 +2,7 @@
 
 ## @fushiroyamaさん 「はやい・やすい・うまい！スタートアップでも使える Retrofit + RxJava で瞬間APIクッキングレシピ」
 
+MFT
 - [Retrofitが生成するObservableはdispose時にOkHttpのCallをcancelしてくれるんですよ。購読を解除するだけじゃなく非同期通信もキャンセルを試みてくれる](https://twitter.com/fushiroyama/status/885824999151489024)
 
 
@@ -13,25 +14,38 @@ https://speakerdeck.com/sys1yagi/akitekutiyato-scaffolding-template
 - カウボーイコーディングはやばい
 - [FreeMaker](http://freemarker.org/)
 
+MFT
+- [FreeMakerを使うとAndroid StudioのActivityなどがあるテンプレートの中に自分で追加できて、それにMVPで必要な実装を追加できる](https://twitter.com/new_runnable/status/885812226380013569)
+
 
 ## ウォンテッドリー株式会社 @cattaka_netさん 「高速でトライ＆エラーをするために気をつけてること」
-- リリースをタイミングをわけてログの取り方が間違っていないか検証する
-
 https://www.slideshare.net/TakaoSumitomo/ss-77872108
 
+MEMO
+- リリースをタイミングをわけてログの取り方が間違っていないか検証する
+
 ## @usaganikki さん 「ステークホルダーを巻き込む全体設計」
-- 
+https://www.slideshare.net/shimadatatsuya/ss-77871596
+
 
 ## @mootohさん 「4 Years Startup & Architecture」
-Uber RIB (Architecture)
+https://speakerdeck.com/mootoh/4-years-startup-and-architecture
+
+MEMO
+- [Uber RIB (Architecture)](https://eng.uber.com/new-rider-app/)
+
+MFT
 - [activityとかfragmentとかの単位でパッケージを切るのではなく、1画面に必要な単位でパッケージプライベートにまとめるという提案。スコープも適切だし追いやすい](https://twitter.com/fushiroyama/status/885827078330789888)
 
 
 ## @Reyurnibleさん 「なぜ変更を検知できるDBが必要とされるのか」
 
+MFT
 - [RxJava1->2の間を取り持ってくれる https://github.com/akarnokd/RxJava2Interop … というライブラリは存在しています](https://twitter.com/fushiroyama/status/885824482392199168)
 
 ## @ryugoo_さん 「チーム開発と Android アプリの構成」
-- https://speakerdeck.com/ryugoo/timukai-fa-to-android-apurifalsegou-cheng
+https://speakerdeck.com/ryugoo/timukai-fa-to-android-apurifalsegou-cheng
+
+MFT
 - [あとパッケージの話で個人的に思っているのは “util” の単語を使うと危険な匂いがすること。うまくコンテキストを捉えられなかったコードはだいたいそこに突っ込みまくられて肥大化していく](https://twitter.com/sho5nn/status/885827447567941632)
 
