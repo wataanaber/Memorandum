@@ -14,6 +14,7 @@ https://speakerdeck.com/sys1yagi/akitekutiyato-scaffolding-template
   - 正しく製品を作るコストを最小化する
 - カウボーイコーディングはやばい
 - [FreeMaker](http://freemarker.org/)
+- [create a group of file templates](https://riggaroo.co.za/custom-file-template-group-android-studiointellij/)
 
 MFT
 - [FreeMakerを使うとAndroid StudioのActivityなどがあるテンプレートの中に自分で追加できて、それにMVPで必要な実装を追加できる](https://twitter.com/new_runnable/status/885812226380013569)
