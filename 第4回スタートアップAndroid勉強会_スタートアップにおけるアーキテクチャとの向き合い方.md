@@ -2,6 +2,7 @@
 
 ## @fushiroyamaさん 「はやい・やすい・うまい！スタートアップでも使える Retrofit + RxJava で瞬間APIクッキングレシピ」
 https://speakerdeck.com/srym/hayaiyasuiumai-sutatoatupudemoshi-eru-retrofit-plus-rxjava-deshun-jian-apikutukinguresipi
+
 MFT
 - [Retrofitが生成するObservableはdispose時にOkHttpのCallをcancelしてくれるんですよ。購読を解除するだけじゃなく非同期通信もキャンセルを試みてくれる](https://twitter.com/fushiroyama/status/885824999151489024)
 
