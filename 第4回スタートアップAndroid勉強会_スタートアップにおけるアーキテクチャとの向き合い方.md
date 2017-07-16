@@ -60,7 +60,6 @@ MEMO
 - [Uber RIB (Architecture)](https://eng.uber.com/new-rider-app/)
 
 Twitter
-- [activityとかfragmentとかの単位でパッケージを切るのではなく、1画面に必要な単位でパッケージプライベートにまとめるという提案。スコープも適切だし追いやすい](https://twitter.com/fushiroyama/status/885827078330789888)
 - [メルカリのアーキテクチャの変貌 MVA(独自のMVC的なやつ) -> 増築/改築して肥大化 → MVVM(Rx/DIなど) → 海外とのシングルソースをやめる → これから コンポーネント指向/UberのRIB(VIPER)などを考えている ](https://twitter.com/new_runnable/status/885822017278058496)
 - [次のフェーズ。グロース。A/Bテストやりまくり。海外版も出したくなってきた。するとクーロン城のような無理な建て増し。エントロピーの増大。いろんなデザパタの混在。非常に危険な状態。統一アーキテクチャの必要性。](https://twitter.com/fushiroyama/status/885821143155785729)
 
@@ -84,5 +83,6 @@ MEMO
 - [Riggaroo : Android Architecture Components](https://riggaroo.co.za/android-architecture-components-looking-room-livedata-part-1/)
 
 Twitter
+- [activityとかfragmentとかの単位でパッケージを切るのではなく、1画面に必要な単位でパッケージプライベートにまとめるという提案。スコープも適切だし追いやすい](https://twitter.com/fushiroyama/status/885827078330789888)
 - [あとパッケージの話で個人的に思っているのは “util” の単語を使うと危険な匂いがすること。うまくコンテキストを捉えられなかったコードはだいたいそこに突っ込みまくられて肥大化していく](https://twitter.com/sho5nn/status/885827447567941632)
 
