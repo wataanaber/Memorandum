@@ -28,6 +28,7 @@ https://speakerdeck.com/sys1yagi/akitekutiyato-scaffolding-template
 
 Twitter
 - [FreeMakerを使うとAndroid StudioのActivityなどがあるテンプレートの中に自分で追加できて、それにMVPで必要な実装を追加できる](https://twitter.com/new_runnable/status/885812226380013569)
+- [ViewPagerの画面滞在時間のログ](https://twitter.com/cattaka_net/status/886483123688546305)
 
 
 ## ウォンテッドリー株式会社 @cattaka_netさん 「高速でトライ＆エラーをするために気をつけてること」
