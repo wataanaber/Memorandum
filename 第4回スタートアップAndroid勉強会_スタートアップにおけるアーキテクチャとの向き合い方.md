@@ -9,7 +9,7 @@ MEMO
 - [Retrofitを使ったOAuth再認証アプローチ](http://qiita.com/FumihikoSHIROYAMA/items/ac1beaeaa9b4baaed939)
 - [ how to architect an android application using Uncle Bob's clean architecture approach.](https://github.com/android10/Android-CleanArchitecture)
 - [srym/Architecture](https://github.com/srym/Architecture)
-- [[srym/Architecture/.../RestGitHubDataSourceTest.java](https://github.com/srym/Architecture/blob/master/app/src/test/java/us/shiroyama/android/architecture/infrastructure/repository/datasource/remote/RestGitHubDataSourceTest.java)
+- [srym/Architecture/.../RestGitHubDataSourceTest.java](https://github.com/srym/Architecture/blob/master/app/src/test/java/us/shiroyama/android/architecture/infrastructure/repository/datasource/remote/RestGitHubDataSourceTest.java)
 
 Twitter
 - [Retrofitが生成するObservableはdispose時にOkHttpのCallをcancelしてくれるんですよ。購読を解除するだけじゃなく非同期通信もキャンセルを試みてくれる](https://twitter.com/fushiroyama/status/885824999151489024)
@@ -40,6 +40,7 @@ MEMO
   - セキュリティ・拡張性・信頼性を備えたログ収集ソフトウェア
 - リリースをタイミングをわけてログの取り方が間違っていないか検証する
 - [Androidアプリ滞在時間の計測](https://www.slideshare.net/heki1224/android-45736528)
+  - [Android 向け Google アナリティクス SDK v4 に関するセッションの概要](https://developers.google.com/analytics/devguides/collection/android/v4/sessions?hl=ja)
 
 Twitter
 - [「適当に取ったログは役に立たない」
@@ -78,6 +79,9 @@ Twitter
 
 ## @ryugoo_さん 「チーム開発と Android アプリの構成」
 https://speakerdeck.com/ryugoo/timukai-fa-to-android-apurifalsegou-cheng
+
+MEMO
+- [Riggaroo : Android Architecture Components](https://riggaroo.co.za/android-architecture-components-looking-room-livedata-part-1/)
 
 Twitter
 - [あとパッケージの話で個人的に思っているのは “util” の単語を使うと危険な匂いがすること。うまくコンテキストを捉えられなかったコードはだいたいそこに突っ込みまくられて肥大化していく](https://twitter.com/sho5nn/status/885827447567941632)
